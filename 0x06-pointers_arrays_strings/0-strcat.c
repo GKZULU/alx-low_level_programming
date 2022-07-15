@@ -1,7 +1,7 @@
 #include "main.h"
 
 /**
-* *_strcat -> this is a function stcat
+* _strcat -> this is a function stcat
 * @dest: first param
 * @src: second param
 * Return: a string
